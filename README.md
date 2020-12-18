@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Jinghui Liao</h2>
 <h3 align="center">A Ph.D. candidate from Wayne State University</h3>
 
-<br />
 ### I am...
 
 * 🎓 A computer science student interested in `System Security`, `Blockchain`, `Trusted Execution Environment`
