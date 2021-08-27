@@ -6,7 +6,7 @@
 * 🎓 A computer science student interested in `System Security`, `Blockchain`, `Trusted Execution Environment`
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
-* 🐧 Tech geek! 
+* 🐧 neo core developer 
 
 ### Recent achievements
 
