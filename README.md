@@ -7,7 +7,7 @@
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
 * 🐧 neo core developer 
-
+* 🐧 Automata consultant
 ### Recent achievements
 
 - [DSN'20 Best Paper Candidate](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
