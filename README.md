@@ -3,7 +3,7 @@
 
 ### I am...
 
-* 🎓 A computer science student interested in `System Security`, `Blockchain`, `Trusted Execution Environment`
+* 🎓 A computer science student interested in `System Security`, `Blockchain`, `Trusted Execution Environment`, `Vehicle Security`
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
 * 🐧 neo core developer 
