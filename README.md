@@ -11,4 +11,4 @@
 ### Recent achievements
 
 - [DSN'20 Best Paper Candidate](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
-- [Preprint](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
+- [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
