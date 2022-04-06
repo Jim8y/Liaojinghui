@@ -13,6 +13,6 @@
 
 - [DSN'20 Best Paper Candidate](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
 - [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
-
+- [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(11).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liaojinghui&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
