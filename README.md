@@ -8,7 +8,7 @@
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
 * 🐧 neo core developer 
-* 🐧 Automata consultant
+* 🐧 Automata Network consultant
 ### Recent achievements
 - [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(11).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
 - [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
