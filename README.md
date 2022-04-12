@@ -17,6 +17,4 @@
 - [DSN'20 Best Paper Award](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
 - [SEC'18](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zfJT20EAAAAJ&citation_for_view=zfJT20EAAAAJ:u5HHmVD_uO8C) - Preliminary study of trusted execution environments on heterogeneous edge platforms
 
-![Alt](https://repobeats.axiom.co/api/embed/833fe40e7c552795a95a9538822a7421e5b67dfc.svg "Repobeats analytics image")
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liaojinghui&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
