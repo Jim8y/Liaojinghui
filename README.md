@@ -18,3 +18,5 @@
 - [SEC'18](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zfJT20EAAAAJ&citation_for_view=zfJT20EAAAAJ:u5HHmVD_uO8C) - Preliminary study of trusted execution environments on heterogeneous edge platforms
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liaojinghui&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
+
+[![Jinghui Liao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liaojinghui)](https://github.com/anuraghazra/github-readme-stats)
