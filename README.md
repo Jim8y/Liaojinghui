@@ -12,6 +12,7 @@
 * 🎓Visiting student of SUSTech University
 ### Recent achievements
 - [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(3).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
+- [IEEE EDGE'22]() - Bring Trust to Edge: Secure and Decentralized IoT Framework with BFT and Permissioned Blockchain
 - [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
 - [SEC'21 Workshop](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zfJT20EAAAAJ&citation_for_view=zfJT20EAAAAJ:UeHWp8X0CEIC) - TrustZone Enhanced Plausibly Deniable Encryption System for Mobile Devices
 - [DSN'20 Best Paper Award](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
