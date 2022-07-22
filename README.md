@@ -9,7 +9,7 @@
 * 📚 neo community columnist
 * 🐧 neo core developer 
 * 🐧 Automata Network consultant
-* 🎓Visiting student of SUSTech University
+
 ### Recent achievements
 - [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(13).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
 - [IEEE EDGE'22]() - Bring Trust to Edge: Secure and Decentralized IoT Framework with BFT and Permissioned Blockchain
