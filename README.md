@@ -12,6 +12,7 @@
 ### I was...
 * 🎓 SUSTech visiting student
 * 🐧 Automata Network consultant
+* 🐧 Tencent intern
 
 ### Recent achievements
 - [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(13).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
