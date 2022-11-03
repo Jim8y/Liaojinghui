@@ -7,7 +7,9 @@
 * 🎓 A computer science PhD candidate interested in `System Security`, `Blockchain`, `Trusted Execution Environment`, `Vehicle Security`
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
-* 🐧 neo core developer 
+* 🐧 neo core developer
+
+### I was...
 * 🐧 Automata Network consultant
 
 ### Recent achievements
