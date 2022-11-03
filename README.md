@@ -10,6 +10,7 @@
 * 🐧 neo core developer
 
 ### I was...
+* 🎓 SUSTech visiting student
 * 🐧 Automata Network consultant
 
 ### Recent achievements
