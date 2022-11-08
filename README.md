@@ -19,7 +19,7 @@
 - [IEEE EDGE'22]() - Bring Trust to Edge: Secure and Decentralized IoT Framework with BFT and Permissioned Blockchain
 - [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
 - [SEC'21 Workshop](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zfJT20EAAAAJ&citation_for_view=zfJT20EAAAAJ:UeHWp8X0CEIC) - TrustZone Enhanced Plausibly Deniable Encryption System for Mobile Devices
-- [DSN'20 Best Paper Award](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
+- [DSN'20 Best Paper Award Runner Up](https://ieeexplore.ieee.org/abstract/document/9153415) - KShot: Live kernel patching with SMM and SGX
 - [SEC'18](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zfJT20EAAAAJ&citation_for_view=zfJT20EAAAAJ:u5HHmVD_uO8C) - Preliminary study of trusted execution environments on heterogeneous edge platforms
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Liaojinghui&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
