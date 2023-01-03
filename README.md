@@ -8,6 +8,7 @@
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
 * 🐧 neo core developer
+* 🎓 University of Delaware visiting student
 
 ### I was...
 * 🎓 SUSTech visiting student
