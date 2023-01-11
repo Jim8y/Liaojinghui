@@ -9,6 +9,7 @@
 * 📚 neo community columnist
 * 🐧 neo core developer
 * 🎓 University of Delaware visiting student
+* ⌨️ Founder of R3E Network
 
 ### I was...
 * 🎓 SUSTech visiting student
