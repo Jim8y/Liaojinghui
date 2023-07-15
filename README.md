@@ -17,6 +17,7 @@
 * 🐧 Tencent intern
 
 ### Recent achievements
+- [In Submission]() - FALCON: Unlocking Low-slippage Data for Blockchain
 - [In Submission](https://github.com/Liaojinghui/jinghui.me/blob/master/content/publication/Blockchain_Random_Number%20(13).pdf) - BCRAND: A Secure Runtime Random Number Generator for Smart Contracts
 - [IEEE EDGE'22]() - Bring Trust to Edge: Secure and Decentralized IoT Framework with BFT and Permissioned Blockchain
 - [AsiaCCS'22](https://arxiv.org/abs/2104.01289) - Speedster: A TEE-assisted State Channel System
