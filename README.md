@@ -7,14 +7,15 @@
 * 🎓 A computer science PhD candidate interested in `System Security`, `Blockchain`, `Trusted Execution Environment`, `Vehicle Security`
 * 👨‍💻 A [bloger](https://jinghui.blog/).
 * 📚 neo community columnist
-* 🐧 neo core developer
+<!--- * 🐧 neo core developer -->
 * 🎓 University of Delaware visiting student
-* ⌨️ Founder of R3E Network
+<!--- * ⌨️ Founder of R3E Network -->
 
-### I was...
+<!--- ### I was...
 * 🎓 SUSTech visiting student
 * 🐧 Automata Network consultant
 * 🐧 Tencent intern
+-->
 
 ### Recent achievements
 - [In Submission]() - FALCON: Unlocking Low-slippage Data for Blockchain
